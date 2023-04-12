@@ -9,6 +9,8 @@ public class Main {
        else {
            System.out.println("奇数");
        }
-
+      if (number % 2 == 0) {
+          System.out.println("函数");
+      }
     }
 }
